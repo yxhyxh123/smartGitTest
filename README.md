@@ -1,0 +1,2 @@
+# smartGitTest
+用于测试smartGit是否安装成功的测试用例
